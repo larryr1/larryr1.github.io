@@ -1,3 +1,11 @@
+body {
+  background: #ffe1e1e8;
+}
+
+h1, h2,h3, h4, h6, h6 {
+  border-color: #c89292;
+}
+
 header {
   width: 100%;
   background-color: rgb(212, 212, 212);

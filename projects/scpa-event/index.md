@@ -29,12 +29,6 @@ you wouldn't give clients your API key and have them make requests on your behal
 For storing configuration set by the user, the server uses a package called NeDB. It provides a mongo-like API for interfacing with collections stored in files.
 The server creates and uses two separate files for data, one to hold application settings `settings.db` and one to hold the application users `users.db`.
 
-## Demos
-Event Display
-
-
-**Video Demo**
-
-This showcases the near-realtime functionality of the application.
-
-Check out the website for yourself at [https://plc.glitch.me](https://plc.glitch.me). It may take a moment to startup.
+## Pictures
+Picture of the main display
+![Main display](https://github.com/larryr1/larryr1.github.io/blob/main/projects/scpa-event/scpa-event-main.png?raw=true)

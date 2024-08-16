@@ -10,6 +10,6 @@ I began to take on more advanced projects, with the aim of discovering new techn
 ## Project List
 Check out some of my best projects below.
 
-[Verilock]("/projects/verilock/")
+[Verilock](/projects/verilock/)
 
-[PLC Database]("/projects/plc-database")
+[PLC Database](/projects/plc-database)

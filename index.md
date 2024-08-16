@@ -13,3 +13,5 @@ Check out some of my best projects below.
 [Verilock](/projects/verilock/)
 
 [PLC Database](/projects/plc-database)
+
+[SCPA Event Display](/projects/scpa-event)

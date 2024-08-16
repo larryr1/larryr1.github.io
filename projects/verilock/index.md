@@ -19,4 +19,5 @@ The plugin also allows you to perform database operations in-game via commands.
 ```
 ## Video demo
 This video shows what it looks like from a user's perspective, with joining for the first time and subsequent joins after that.
-[Video](/projects/verilock/demo_video)
+
+[Verilock Demo Video](https://larryr1.github.io/projects/verilock/verilock_demo.mp4)

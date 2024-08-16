@@ -9,3 +9,12 @@ Even though database is in the name, there isn't a database in the traditional s
 The data retrieval for the games works slightly different. The games are markdown files, but contain a special header format that tell the server what the title and description of the game is to be displayed when any users view the main list of games.
 
 The website doesn't use a framework of any kind. I wrote each view by hand using the Bootstrap CSS utilites.
+
+## Pictures
+Home Page
+![Home Page Image](https://larryr1.github.io/projects/plc-database/homepage.png)
+
+Meeting Page
+![Meeting Page Image](https://larryr1.github.io/projects/plc-database/meeting_page.png)
+
+Check out the website for yourself at [https://plc.glitch.me](https://plc.glitch.me). It may take a moment to startup.

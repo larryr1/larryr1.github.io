@@ -1,5 +1,7 @@
 # SCPA Event Display
 
+![Picture of the display](https://github.com/larryr1/larryr1.github.io/blob/main/projects/scpa-event/scpa-event-main.png?raw=true)
+
 The SCPA Event Display is displayed on several displays around our school campus. It uses the API on our school webpage to get the latest events that are posted, and the event display shows the next upcoming event.
 
 This project consists of three individual projects:
@@ -31,4 +33,4 @@ The server creates and uses two separate files for data, one to hold application
 
 ## Pictures
 Picture of the main display
-![Main display](https://github.com/larryr1/larryr1.github.io/blob/main/projects/scpa-event/scpa-event-main.png?raw=true)
+

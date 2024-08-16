@@ -1,4 +1,4 @@
-# Larry Rowe - Developer Portfolio
+# Developer Portfolio
 ## About Me
 Ever since I was old enough to use a computer, I had interests that came and went, as everyone does. However, one interest lingered, which was seeking the answer to **how does box this of circut boards work?**
 

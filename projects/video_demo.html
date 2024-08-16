@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<style>
+      * {
+      	font-family: "Gill Sans", sans-serif;
+      }
+      
+      body {
+        padding: 25px;
+      }
+      
+      video {
+      	display: block;
+        margin: 0 auto;
+        max-width: 500px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="pageTitle">Video Demo</h1>
+    <video width="85%" controls>
+        <source id="videoSource" src="" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <script>
+      const urlParams = new URLSearchParams(window.location.search);
+	  const vidUrl = urlParams.get('video');
+      const pageTitle = urlParams.get('title');
+      document.getElementById("videoSource").attributes.src = vidUrl;
+      document.getElementById("pageTitle").innerText = pageTitle || "Demo Video";
+      if (!vidUrl) alert("No video parameter defined for the dynamic video page.");
+    </script>
+  </body>
+</html>
+

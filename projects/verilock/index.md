@@ -1,6 +1,6 @@
 # Verilock
-
-Verilock is a Minecraft Java server plugin (Built for the [Paper](https://papermc.io) server software, a fork of [Bukkit](https://dev.bukkit.org)) which forces players to authenticate to the server with their student ID and birthday.
+[Source Code](https://github.com/larryr1/verilock)
+Verilock is a Minecraft Java server plugin (Built for the [Paper](https://papermc.io) server software, a fork of [Bukkit](https://dev.bukkit.org)) which forces players to authenticate to the server with their student ID and birthday. Verilock was created to assist with securing a school-sponsored Minecraft server I was in charge of managing, where only verified students were allowed to play.
 
 Usage of the plugin is simple. First, you run a report in your Student Information System (SIS) that generates a CSV file with the expected schema. Then, you drop the CSV file into the folder that got generated for the plugin. After adding the file, you run a command in-game which makes the server parse the file.
 
@@ -17,3 +17,6 @@ The plugin also allows you to perform database operations in-game via commands.
 /verilock database link_identity <player> <id> - Manually links a player to the specified ID.
 /verilock database unlink_identity <player> - Manually unlinks the specified player from any student record.
 ```
+## Video demo
+This video shows what it looks like from a user's perspective, with joining for the first time and subsequent joins after that.
+[Video](/projects/verilock/demo_video)

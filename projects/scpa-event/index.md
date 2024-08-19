@@ -38,6 +38,6 @@ Picture of the main display that is shown on the TVs.
 Picture of the admin interface on the Messages configuration tab.
 ![Pictures of the admin interface](https://github.com/larryr1/larryr1.github.io/blob/main/projects/scpa-event/scpa-event-messages.png?raw=true)
 
-Video demo of the display and interface
+Video demo of the display and interface.
 
 [scpa-event Demo Video](https://larryr1.github.io/projects/scpa-event/scpa-event-demo.mp4)

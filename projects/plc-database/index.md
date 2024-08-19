@@ -1,7 +1,7 @@
 # The PLC Database
 [Link to Website](https://plc.glitch.me)
 
-The PLC database had the original purpose of communicating meeting plans to the leadership board of my Boy Scout Troop, with later added option for showing "games" that have been entered on the website.
+The PLC database had the original purpose of communicating meeting plans to the leadership board of my Boy Scout Troop, with later added option for showing "games" that have been entered on the website. I started development the site when I was in 8th grade and maintained it for about 2 years.
 
 The website runs with a Node.JS backend, serving HTTP requests with the `express.js` package. It uses some basic templating to fill in some placeholder values on some pages, and has an API that allows for the frontend to fetch relevant data about meetings and games.
 Even though database is in the name, there isn't a database in the traditional sense. The website's data is edited by manually adding or removing JSON files for each meeting or game. These files are indexed when the server starts.
